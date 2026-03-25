@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="an_ss1.png" alt="LeadFlow AI Banner">
+</p>
+
 # 🤖 AutoAnalyst AI
 
 An AI-powered automated data analysis platform built with Python and Streamlit.
@@ -43,6 +47,16 @@ auto_analyst/
 └── utils/
     └── helpers.py          # Shared utilities
 ```
+
+
+## Screenshots
+<p align="center">
+  <img src="an_ss1.png" alt="LeadFlow AI Banner">
+  <img src="an_ss2.png" alt="LeadFlow AI Banner">
+  <img src="an_ss3.png" alt="LeadFlow AI Banner">
+  <img src="an_ss4.png" alt="LeadFlow AI Banner">
+  <img src="an_ss5.png" alt="LeadFlow AI Banner">
+</p>
 
 ## Setup & Run
 
